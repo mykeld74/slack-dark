@@ -4,18 +4,18 @@ body {
 }
 
 a {
-  color: #0e96cc;
+  color: #a5c8a2;
 }
 
 a:link,
 a:visited {
-  color: #0e96cc;
+  color: #a5c8a2;
 }
 
 a:hover,
 a:active,
 a:focus {
-  color: #39c6fd;
+  color: #85a182;
 }
 
 hr {
